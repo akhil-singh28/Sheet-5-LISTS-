@@ -6,9 +6,3 @@ for i in A:
         even.append(i)
     else:
         odd.append(i)
-for i in odd:
-    print(i, end=" ")
-print()
-for i in even:
-    print(i, end=" ")
-print()
